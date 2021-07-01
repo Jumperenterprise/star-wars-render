@@ -62,7 +62,7 @@ body {
 }
 
 .container__menu {
-  background-image: url('/Assets/header-bg.png');
+  background-image: url('./Assets/header-bg.png');
   width: 100%;
   position: absolute;
   top: 60px;
@@ -129,7 +129,7 @@ body {
 }
 
 .wrapper__img {
-  background-image: url('/Assets/kiloren.png');
+  background-image: url('./Assets/kiloren.png');
   height: 100%;
   background-attachment: fixed;
   background-position: center;
@@ -140,7 +140,7 @@ body {
 
 .banner--two {
   height: 250px;
-  background-image: url('/Assets/stormtroopers-2x.jpg');
+  background-image: url('./Assets/stormtroopers-2x.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -176,7 +176,7 @@ body {
 
 .footer {
   height: 272px;
-  background-image: url('/Assets/darthvader.jpg');
+  background-image: url('./Assets/darthvader.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
